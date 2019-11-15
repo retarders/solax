@@ -1,0 +1,11 @@
+{
+  "name": "solax",
+  "version": "1.0.0",
+  "main": "solax.js",
+  "author": "retarders",
+  "license": "ISC",
+  "dependencies": {
+    "args-parser": "^1.1.0",
+    "mineflayer": "^2.10.0"
+  }
+}
